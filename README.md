@@ -50,7 +50,7 @@ Transaction Count by Season
 ## Installation & Usage
 
 ## Prerequisites
-# Python dependencies
+## Python dependencies
 pip install pandas plotly
 
 ## License
